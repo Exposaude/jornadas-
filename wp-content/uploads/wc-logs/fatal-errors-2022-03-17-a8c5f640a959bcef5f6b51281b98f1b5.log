@@ -1,0 +1,2 @@
+2022-03-17T11:52:49+00:00 CRITICAL Out of memory (allocated 50331648) (tried to allocate 65536 bytes) em C:\xampp\htdocs\jornadas\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\CartRemoveItem.php na linha 28
+
